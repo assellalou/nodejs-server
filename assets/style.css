@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #efefef;
+  font-family: sans-serif;
+}
+.card {
+  width: 35%;
+  border: 1px solid rgb(199, 199, 199);
+  padding: 25px 15px;
+  border-radius: 3px;
+  text-align: center;
+  background: #fff;
+}

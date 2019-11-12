@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "nodeJs server by assellalou",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "assellalou",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}
